@@ -1,0 +1,31 @@
+The Analysis is based on ECommerce Sales where client wants us to analyze and create KPIs and sales, profit trends on Year on Year analysis, Year To Date and Previous Year To Date calculation alongwith Profit Margin. This report is based on dynamic dasboarding and calendar table is created on for various sales and profit generated for further analysis. DAX functions has been implemented. Data blending, cleaning, transformation and ETL being performed like changing data types based upon data received, removing bad data, null values, anomalies and ambiguities for better optimization and good analysis performance.
+
+KPI plays a very important role in any of the business to analyze and interpret how currently business is performing over the years based on comparison to previous years. How much target has been achieved in business and how much revenue has been generated. Company is more concerned about the key metrices of cards and KPI visuals to drive the business.
+
+Slicer has been implemented on customer segmentation which has categorized into 3 parts: Consumer, Corporate and Home Office. Matrix visuals tells us to compare PYTD Sales, YTD Sales, YoY Sales and Trends among Furniture, Office Supplies and Technology of Category wise in respect to Sales. YoY Sales in Furniture seems to be in positive mode.
+
+Overall YTD Profit has generated around $1.34M and YoY Profit increased by 4.50% and its in increasing streamline and trend. YTD Sales has generated around $11.53M but YoY Sales decreased by 0.83% as well as YTD Quantity by 7.29%. Overall Profit Margin maintained good amount of percentage with 11.58% and YOY Profit Margin increased by 5.37%.
+
+Based upon Top 5 Sales with respect to Products, Staple Envelope is the highest trending product which generated amount of $57K followed by Staples, Easy-Staple so on and so forth.
+
+Mapping Visuals has been implemented among sales in respect to 4 different regions like Central, East, South and West. Bigger the bubble size, higher the sales being generated, smaller the bubble size, lower the sales being generated. Based upon visual, central sales seems to be on top generating region.
+
+Based upon Sales in respect to category wise, office supplies covers 60% of total revenue created around $6.92M of YTD sales followed by Furniture with $2.52M and Technology with $2.10M.
+
+Company agents should organize a marketing campaign for giving more valuable details and information features regarding the products and services which has not generated good amount of sales and profit in 4 regions of US. They need to upgrade the product and first and foremost they should do market research on what actually customers requirements is and need to be satisfied based upon their needs. This is how they should survey and take feedbacks from customers and would drive the business accordingly, efficiently and make data driven decisions for consistent business growth.
+
+
+
+𝐖𝐡𝐚𝐭 𝐢𝐬 𝐟𝐢𝐞𝐥𝐝 𝐩𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫 𝐢𝐧 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 ❓
+
+In 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈, a field parameter is not a built-in feature or functionality. However, you can achieve similar functionality using different techniques available in Power BI. Here are a few approaches:
+
+❇ 𝐒𝐥𝐢𝐜𝐞𝐫: You can use a slicer visual in Power BI to allow users to select a parameter value. Create a slicer based on the field you want to use as a parameter. Users can then interactively select a value from the slicer, which will filter the data accordingly.
+
+❇ 𝐌𝐞𝐚𝐬𝐮𝐫𝐞𝐬 𝐰𝐢𝐭𝐡 𝐈𝐅 𝐨𝐫 𝐒𝐖𝐈𝐓𝐂𝐇 𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬: You can create measures that dynamically change their calculations based on a parameter value. Use the IF or SWITCH functions within the measure to conditionally calculate results based on the selected parameter value. Users can change the parameter value using slicers or other filter visuals.
+
+❇ 𝐂𝐮𝐬𝐭𝐨𝐦 𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬: Power BI allows you to define custom functions using the Power Query Editor. You can create a custom function that takes a parameter as an input and applies specific transformations or calculations to the data based on that parameter value.
+
+❇ 𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲 𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫𝐬: Power Query in Power BI allows you to define parameters that can be used to dynamically modify data sources, queries, or calculations. You can define a parameter within Power Query and reference it in your data transformations or queries. Users can change the parameter value using the Power BI Desktop interface.
+
+𝐓𝐡𝐞𝐬𝐞 𝐭𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬 𝐩𝐫𝐨𝐯𝐢𝐝𝐞 𝐟𝐥𝐞𝐱𝐢𝐛𝐢𝐥𝐢𝐭𝐲 𝐢𝐧 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 𝐛𝐞𝐡𝐚𝐯𝐢𝐨𝐫𝐬 𝐚𝐧𝐝 𝐩𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫-𝐥𝐢𝐤𝐞 𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥𝐢𝐭𝐲 𝐰𝐢𝐭𝐡𝐢𝐧 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈. 𝐇𝐨𝐰𝐞𝐯𝐞𝐫, 𝐢𝐭'𝐬 𝐢𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭 𝐭𝐨 𝐧𝐨𝐭𝐞 𝐭𝐡𝐚𝐭 𝐭𝐡𝐞𝐲 𝐦𝐚𝐲 𝐫𝐞𝐪𝐮𝐢𝐫𝐞 𝐬𝐨𝐦𝐞 𝐚𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐬𝐞𝐭𝐮𝐩 𝐚𝐧𝐝 𝐜𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐚𝐭𝐢𝐨𝐧 𝐝𝐞𝐩𝐞𝐧𝐝𝐢𝐧𝐠 𝐨𝐧 𝐲𝐨𝐮𝐫 𝐬𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐮𝐬𝐞 𝐜𝐚𝐬𝐞.
