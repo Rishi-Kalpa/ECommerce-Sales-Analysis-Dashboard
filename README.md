@@ -24,12 +24,15 @@ Slicer has been implemented on customer segmentation which has categorized into 
 
 Overall YTD Profit has generated around $1.34M and YoY Profit increased by 4.50% and its in increasing streamline and trend. YTD Sales has generated around $11.53M but YoY Sales decreased by 0.83% as well as YTD Quantity by 7.29%. Overall Profit Margin maintained good amount of percentage with 11.58% and YOY Profit Margin increased by 5.37%.
 
+![YTD Sales](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/f98a0d09-8609-4a5d-972e-6713688a9412)
+
 Based upon Top 5 Sales with respect to Products, Staple Envelope is the highest trending product which generated amount of $57K followed by Staples, Easy-Staple so on and so forth.
 
 Mapping Visuals has been implemented among sales in respect to 4 different regions like Central, East, South and West. Bigger the bubble size, higher the sales being generated, smaller the bubble size, lower the sales being generated. Based upon visual, central sales seems to be on top generating region.
 
 Based upon Sales in respect to category wise, office supplies covers 60% of total revenue created around $6.92M of YTD sales followed by Furniture with $2.52M and Technology with $2.10M.
 
-## Insights and Recommendations
+# Snapshot of Dashboard (Power BI Service)
 
+## Insights and Recommendations
 Company agents should organize a marketing campaign for giving more valuable details, features regarding the products and services. They need to upgrade the product & they should do market research on what actually customers requirements is. This is how they should survey and take feedbacks from customers and would drive the business accordingly, efficiently & make data driven decisions for consistent business growth.
