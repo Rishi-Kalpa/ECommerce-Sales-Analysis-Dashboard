@@ -26,6 +26,12 @@ Overall YTD Profit has generated around $1.34M and YoY Profit increased by 4.50%
 
 ![YTD Sales](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/f98a0d09-8609-4a5d-972e-6713688a9412)
 
+![YTD Profit](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/7fcb6db8-fff8-447d-9804-c4abc4f0a73b)
+
+![YTD Quantity](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/e232381c-2087-417d-88e1-f39397276d56)
+
+![YTD Profit Margin](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/ff65d04c-80f7-414f-af86-626d8fa64eed)
+
 Based upon Top 5 Sales with respect to Products, Staple Envelope is the highest trending product which generated amount of $57K followed by Staples, Easy-Staple so on and so forth.
 
 Mapping Visuals has been implemented among sales in respect to 4 different regions like Central, East, South and West. Bigger the bubble size, higher the sales being generated, smaller the bubble size, lower the sales being generated. Based upon visual, central sales seems to be on top generating region.
