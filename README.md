@@ -33,6 +33,7 @@ Mapping Visuals has been implemented among sales in respect to 4 different regio
 Based upon Sales in respect to category wise, office supplies covers 60% of total revenue created around $6.92M of YTD sales followed by Furniture with $2.52M and Technology with $2.10M.
 
 # Snapshot of Dashboard (Power BI Service)
+![Snapshot](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/a9c38896-09ef-4d80-8c0c-cd97cfae122f)
 
 ## Insights and Recommendations
 Company agents should organize a marketing campaign for giving more valuable details, features regarding the products and services. They need to upgrade the product & they should do market research on what actually customers requirements is. This is how they should survey and take feedbacks from customers and would drive the business accordingly, efficiently & make data driven decisions for consistent business growth.
