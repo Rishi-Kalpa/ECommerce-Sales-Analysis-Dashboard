@@ -24,13 +24,7 @@ Slicer has been implemented on customer segmentation which has categorized into 
 
 Overall YTD Profit has generated around $1.34M and YoY Profit increased by 4.50% and its in increasing streamline and trend. YTD Sales has generated around $11.53M but YoY Sales decreased by 0.83% as well as YTD Quantity by 7.29%. Overall Profit Margin maintained good amount of percentage with 11.58% and YOY Profit Margin increased by 5.37%.
 
-![YTD Sales](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/f98a0d09-8609-4a5d-972e-6713688a9412)
-
-![YTD Profit](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/7fcb6db8-fff8-447d-9804-c4abc4f0a73b)
-
-![YTD Quantity](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/e232381c-2087-417d-88e1-f39397276d56)
-
-![YTD Profit Margin](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/ff65d04c-80f7-414f-af86-626d8fa64eed)
+![YTD Sales](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/f98a0d09-8609-4a5d-972e-6713688a9412)  ![YTD Profit](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/7fcb6db8-fff8-447d-9804-c4abc4f0a73b)  ![YTD Quantity](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/e232381c-2087-417d-88e1-f39397276d56)  ![YTD Profit Margin](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/ff65d04c-80f7-414f-af86-626d8fa64eed)
 
 Based upon Top 5 Sales with respect to Products, Staple Envelope is the highest trending product which generated amount of $57K followed by Staples, Easy-Staple so on and so forth.
 
